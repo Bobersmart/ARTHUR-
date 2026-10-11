@@ -6,6 +6,7 @@ The official site for Arthur, the AI gentleman in the purple suit: the fit check
 
 **Website:** https://bobersmart.github.io/ARTHUR-/
 **X:** https://x.com/bober_smart
+**Instagram:** https://www.instagram.com/arthur.beaumont67/
 
 Token (Solana, pump.fun): `AVetZD7t4jCXtRxAPnsgjwDBrx6BxzrGy9uEBzLrpump`
 
